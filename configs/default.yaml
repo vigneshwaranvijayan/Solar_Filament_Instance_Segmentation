@@ -1,0 +1,12 @@
+# Defaults match the Kaggle notebook configuration.
+folds: [0]
+detector_model: yolo11m-seg.pt
+detector_epochs: 30
+detector_size: 1536
+detector_batch: 2
+refiner_epochs: 15
+refiner_steps: 150
+refiner_batch: 8
+refiner_size: 384
+seed: 2026
+run_tag: run1

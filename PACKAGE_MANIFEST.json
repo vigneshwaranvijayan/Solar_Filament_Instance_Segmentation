@@ -1,0 +1,134 @@
+{
+  ".gitignore": {
+    "bytes": 285,
+    "sha256": "3857ae69ff20fb183a34df8fa77ffbc2fe17faf2a585f35e073b79a272cd640a"
+  },
+  "README.md": {
+    "bytes": 15701,
+    "sha256": "e3a9390dac29b42910336fed8a6d4c8151ce9e8f2b74b4e614b9bc4ee6661043"
+  },
+  "THIRD_PARTY_NOTICES.md": {
+    "bytes": 2249,
+    "sha256": "00147f3c2e811bc54f8689554913fa69552364fc825d0a87677bd7992262179e"
+  },
+  "V5.ipynb": {
+    "bytes": 86285,
+    "sha256": "8368248453c87b197635ce4ef414a5adf97cca35855e31a67bf7587c6238bda1"
+  },
+  "cached_evaluation.py": {
+    "bytes": 4092,
+    "sha256": "739325771f9b05f8fb4022cc7fca07febfbc53cea95cf8b7417bc6a63897ef4a"
+  },
+  "configs/default.yaml": {
+    "bytes": 250,
+    "sha256": "739629bb316c41dd834ac102d3f655bab9adbfdf402256bc1ea9b7661db87463"
+  },
+  "docs/METHOD.md": {
+    "bytes": 6773,
+    "sha256": "0a3a1b4f7475889a9dde7de1fdf2c73c91b1e1d1eae833ebb01e5fe1dfa2aeb5"
+  },
+  "docs/TROUBLESHOOTING.md": {
+    "bytes": 4853,
+    "sha256": "55c7c59d571face6526b0c62fa1caa0f35af4c0f78eb949fa5aed354a19cd329"
+  },
+  "evaluate_experiment.py": {
+    "bytes": 6273,
+    "sha256": "9b8987229124421abf49a9984790ab6612b7cc9bb60bc29ab487a2629ef2f406"
+  },
+  "filament/__init__.py": {
+    "bytes": 78,
+    "sha256": "9f5903cd422e166e38492e607da8b723e650cb76013e59f292a973e479892aea"
+  },
+  "filament/data.py": {
+    "bytes": 4979,
+    "sha256": "b6ee3a0b3a4ebc4c66f36956ca4e8121502cbd9bdd52d0693ea8f82d2c6e0b49"
+  },
+  "filament/metrics.py": {
+    "bytes": 1415,
+    "sha256": "0de1d3094aa3d100805a1911bbd5db23e976e132f0e8d3e91c1dd5b485b79063"
+  },
+  "geometry.py": {
+    "bytes": 2152,
+    "sha256": "3fdc26a6e47287d0e378de03e1fa3559e74f327cbe29d5e2f1755fc53a5df8a0"
+  },
+  "metric_core.py": {
+    "bytes": 1543,
+    "sha256": "7b3b7ab596195eb98d8aa727856580c6c3798b648e06dc3ccfa6cb057e9b31be"
+  },
+  "patches.py": {
+    "bytes": 5791,
+    "sha256": "ff1b327420a33368f8cb4f14f163eb742e0d6bcc51fee3d62d2a4926b87d047f"
+  },
+  "pipeline.py": {
+    "bytes": 3641,
+    "sha256": "1b232d984ed8efc2b1b6634b9fe2adb144c980c75ad93ed53d4bd059fee9272d"
+  },
+  "predict_test.py": {
+    "bytes": 2709,
+    "sha256": "64dc27cdf130c10b5bead14ea4ef8d50455ed69af26dbf61ca36fda74f431341"
+  },
+  "prepare_data.py": {
+    "bytes": 3150,
+    "sha256": "e6e3946904544aaaaddfcd465b12b8af7475e61ed4fc02bcbe3d7c984fab847f"
+  },
+  "prepare_experiment.py": {
+    "bytes": 5244,
+    "sha256": "19d7c694e44ac046328f2b2a1c4eccba6260d401c49d4339eba49d9f18245c0b"
+  },
+  "refiner.py": {
+    "bytes": 2920,
+    "sha256": "0e0e8e665309fb08c41525511639cf3fc199e86088be945d264a9d1ef9677aa8"
+  },
+  "requirements-kaggle.txt": {
+    "bytes": 110,
+    "sha256": "9be04910fa079e0b91d087aed9434475302683b9877c3c6288e176cc18ab5059"
+  },
+  "requirements.txt": {
+    "bytes": 285,
+    "sha256": "6d35f63364e16055381ddd3b24e5b157d19cbe22b6da0a1fb44c2633f7879331"
+  },
+  "run_pipeline.py": {
+    "bytes": 9512,
+    "sha256": "f1e55fb1f5061fae4663ec77047df6cb4d9ca249768a6274097392a15471b456"
+  },
+  "scripts/check_environment.py": {
+    "bytes": 927,
+    "sha256": "920b9928b0274dfd26a041a0e6d427ef0a0790fd0109715a7c1e27b9627d50cf"
+  },
+  "scripts/sync_notebook.py": {
+    "bytes": 1988,
+    "sha256": "0b8a569ad303c6273e8c705adf394ded721125cb0f77174f9224659dea0696ca"
+  },
+  "select_detector.py": {
+    "bytes": 1904,
+    "sha256": "2640a1874928a1ca72fcd8f859d0e5abcdb55789b9cc742f22ec3c4250e45d49"
+  },
+  "smoke_test.py": {
+    "bytes": 2247,
+    "sha256": "135d2f1798d06f85931f4ad45507d516c6d9936c5379ec515745ae514db0664f"
+  },
+  "tests/test_core.py": {
+    "bytes": 2318,
+    "sha256": "28585bbbd180adbe416683486baac4189ae1a5256fd993cd5388a8f082d435be"
+  },
+  "tests/test_polygon_conversion.py": {
+    "bytes": 1379,
+    "sha256": "38d5ecfbea6f7b11cba45eee40899384724f096aba8e1dc78764e90ab6d24d88"
+  },
+  "tests/test_runner.py": {
+    "bytes": 3571,
+    "sha256": "17406cf97620844001f0018f5f64bb1ad71b3eb6082802aa13c9bbe081eda61e"
+  },
+  "train_detector.py": {
+    "bytes": 2450,
+    "sha256": "f9c596803047f11db3f9267e43af0d4df8a259c66ccbc3b1dd43cfb6b109481a"
+  },
+  "train_refiner.py": {
+    "bytes": 5732,
+    "sha256": "90be3ecf73c6af2ed81f91e13cda1f1d2d14a2ba3ba7f4a403dcd11c7a8d9d21"
+  },
+  "validate_submission.py": {
+    "bytes": 2246,
+    "sha256": "458b056f4a81795fad9f539deac754f869d24675a374fc9e27d1fc95de9ce8ea"
+  }
+}
